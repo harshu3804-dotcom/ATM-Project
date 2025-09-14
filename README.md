@@ -1,0 +1,1 @@
+This project is a simple ATM system built in Python. It allows users to check balance, deposit money, withdraw money, and exit. Created as a beginner-friendly practice project to understand loops, conditionals, and input handling.
